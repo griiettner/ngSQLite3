@@ -94,7 +94,6 @@ $scope.db.select(
 ```sql
 SELECT * FROM user WHERE age IS NULL AND username IS NOT NULL
 ```
-```
 Operators
 ------------
 Your can use common operators like `=`, `>=`, `<=` and `LIKE`. You can use also `IS NULL` and `NOT NULL` as condition values.
