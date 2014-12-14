@@ -6,7 +6,7 @@ Helps you generate SQLite3 simple queries and run them without writing any sql c
 
 Setup
 -------
-1. `bower install angular-websql`
+1. Clone this project from Github.
 2. Include the `ngsqlite3.min.js` and angular itself.
 3. Add `ngSQLite3` as a module dependency to your app.
 
